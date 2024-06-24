@@ -17,7 +17,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         indicatorView.isHidden = true
         labelProcessing.isHidden = true
     }
